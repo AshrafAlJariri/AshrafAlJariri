@@ -7,7 +7,7 @@ Aspiring IT Support & Cybersecurity Professional
 - <b>Active Directory Home Lab (VirtualBox, Windows Server, PowerShell)</b>
   - [Active Directory Home Lab](https://github.com/AshrafAlJariri/ActiveDirectoryLab-/blob/main/README.md)
 - <b>Ticketing System Lab</b>
-  - [Windows & Linux Virtual Machine Administration](https://github.com/AshrafAlJariri/TicketingSystemLab)
+  - [My IT Support Ticketing Lab Guide](https://github.com/AshrafAlJariri/TicketingSystemLab)
 - <b>Networking & Troubleshooting Lab</b>
   - [SOHO Network Configuration & Troubleshooting](https://github.com/yourusername/Networking-Lab)
 
