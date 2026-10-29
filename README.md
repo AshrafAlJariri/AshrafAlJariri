@@ -8,8 +8,6 @@ Aspiring IT Support & Cybersecurity Professional
   - [Active Directory Home Lab](https://github.com/AshrafAlJariri/ActiveDirectoryLab-/blob/main/README.md)
 - <b>Ticketing System Lab</b>
   - [My IT Support Ticketing Lab Guide](https://github.com/AshrafAlJariri/TicketingSystemLab)
-- <b>Networking & Troubleshooting Lab</b>
-  - [SOHO Network Configuration & Troubleshooting](https://github.com/yourusername/Networking-Lab)
 
 <h2>🛠️ Technical Skills</h2>
 
