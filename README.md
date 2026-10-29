@@ -14,13 +14,15 @@ Aspiring IT Support & Cybersecurity Professional
 - Windows & Linux Administration
 - Active Directory
 - PowerShell
-- VirtualBox Virtualization
-- Networking Fundamentals
 - CLI Commands
 - Hardware & Software Troubleshooting
 - User & Permission Management
 - System Recovery & Disk Management
 - Cybersecurity Fundamentals
+
+<h2>📚 Certification </h2>
+
+- CompTIA A+
 
 <h2>📚 Currently Learning</h2>
 
@@ -28,7 +30,7 @@ Aspiring IT Support & Cybersecurity Professional
 - Active Directory Administration
 - PowerShell Scripting
 - IT Support & System Troubleshooting
-- Cybersecurity & GRC Fundamentals
+
 
 <h2> 🤳 Connect with me:</h2>
 
