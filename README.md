@@ -6,7 +6,7 @@ Aspiring IT Support & Cybersecurity Professional
 
 - <b>Active Directory Home Lab (Azure, Parallels Desktop Windows Server, PowerShell)</b>
   - [Active Directory Home Lab](https://github.com/AshrafAlJariri/Active-Directory-HelpDesk-Lab)
-- <b>Ticketing System Lab</b>
+- <b>Ticketing System Lab (Azure, Parallels Desktop Windows Server, PowerShell)</b>
   - [IT Support Ticketing Lab Guide](https://github.com/AshrafAlJariri/IT-Ticketing-Lab)
 
 <h2>🛠️ Technical Skills</h2>
