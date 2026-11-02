@@ -5,7 +5,7 @@ Aspiring IT Support & Cybersecurity Professional
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab (VirtualBox, Windows Server, PowerShell)</b>
-  - [Active Directory Home Lab](https://github.com/AshrafAlJariri/ActiveDirectoryLab-/blob/main/README.md)
+  - [Active Directory Home Lab](https://github.com/AshrafAlJariri/Active-Directory-HelpDesk-Lab)
 - <b>Ticketing System Lab</b>
   - [My IT Support Ticketing Lab Guide](https://github.com/AshrafAlJariri/TicketingSystemLab)
 
