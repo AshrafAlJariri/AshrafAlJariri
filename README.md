@@ -38,4 +38,13 @@ Aspiring IT Support & Cybersecurity Professional
 [<img align="left" alt="LinkedIn" width="22px" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [](https://www.linkedin.com/in/ashraf-al-jariri12345/)
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME/">
+    <img src="https://www.linkedin.com/in/ashraf-al-jariri12345/"
+         alt="LinkedIn"
+         width="25"
+         align="center" />
+    LinkedIn Profile
+  </a>
+</p>
+
