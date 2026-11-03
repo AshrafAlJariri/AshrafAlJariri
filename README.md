@@ -33,19 +33,11 @@ Aspiring IT Support & Cybersecurity Professional
 - IT Support & System Troubleshooting
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with Me:</h2>
 
-[<img align="left" alt="LinkedIn" width="22px" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<p>
-  <a href="https://www.linkedin.com/in/ashraf-al-jariri12345/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         width="25"
-         align="center" />
-    LinkedIn Profile
-  </a>
-</p>
-
-
+<a href="https://www.linkedin.com/in/ashraf-al-jariri12345/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+       alt="LinkedIn"
+       width="30"
+       align="center" />
+</a>
