@@ -4,9 +4,9 @@ Aspiring IT Support & Cybersecurity Professional
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab (Azure, Parallels Desktop Windows Server, PowerShell)</b>
+- <b>Active Directory Administration Home Lab (Microsoft Azure, Windows Server 2025, Windows 11, Parallels Desktop)</b>
   - [Active Directory Home Lab](https://github.com/AshrafAlJariri/Active-Directory-HelpDesk-Lab)
-- <b>Ticketing System Lab with Active Directory Troubleshooting (Azure, Parallels Desktop Windows Server, PowerShell)</b>
+- <b>IT Help Desk Ticketing & Troubleshooting Lab (Spiceworks, Active Directory, Windows Server 2025, Windows 11 Pro)</b>
   - [IT Support Ticketing Lab Guide](https://github.com/AshrafAlJariri/IT-Ticketing-Lab)
 
 
