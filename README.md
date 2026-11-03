@@ -9,6 +9,7 @@ Aspiring IT Support & Cybersecurity Professional
 - <b>Ticketing System Lab with Active Directory Troubleshooting (Azure, Parallels Desktop Windows Server, PowerShell)</b>
   - [IT Support Ticketing Lab Guide](https://github.com/AshrafAlJariri/IT-Ticketing-Lab)
 
+
 <h2>🛠️ Technical Skills</h2>
 
 - Windows & Linux Administration
