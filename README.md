@@ -18,7 +18,6 @@ Aspiring IT Support & Cybersecurity Professional
 - CLI Commands
 - Hardware & Software Troubleshooting
 - User & Permission Management
-- System Recovery & Disk Management
 - Cybersecurity Fundamentals
 
 <h2>📚 Certification </h2>
